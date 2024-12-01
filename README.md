@@ -1,5 +1,7 @@
 This repository contains multiple Deep Learning Application Projects
+
 All the notebooks were run on kaggle's GPU P100.
+
 Sample Outputs:-
 
 Segmentation
